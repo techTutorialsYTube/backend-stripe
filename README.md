@@ -6,7 +6,7 @@ Check out the video for the code [Youtube](https://youtu.be/ElgfjrWn7Mg)
 ## Firestore service key for admin access
 
 You need to create a private key from firebase. Goto project settings --> service accounts --> click on `Generate new private key`.
-Place the downloaded file under `src/files/` folder with name `service_key.json`
+Place the downloaded file under `files/` folder with name `service_key.json`
 
 ## Running
 
