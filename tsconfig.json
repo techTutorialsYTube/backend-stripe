@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ESNext",
     "module": "commonjs",
-    "sourceMap": false,
+    "sourceMap": true,
     "skipLibCheck": true,
     "outDir": "./app",
     "rootDir": "./src",
